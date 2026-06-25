@@ -12,10 +12,6 @@ Full Stack Developer with hands-on experience building web applications using Ne
 ![](https://streak-stats.demolab.com/?user=RohitRaj0403&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohitRaj0403&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
 [![](https://komarev.com/ghpvc/?username=RohitRaj0403&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
